@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
