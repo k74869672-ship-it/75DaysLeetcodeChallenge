@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
