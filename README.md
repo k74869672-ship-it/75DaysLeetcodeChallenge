@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
+| [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
+| [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Number Theory
+|  |
+| ------- |
+| [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 <!---LeetCode Topics End-->
